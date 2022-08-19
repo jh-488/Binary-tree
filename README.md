@@ -7,6 +7,7 @@ Run the following commands from the `Binary-tree` directory :
 - `mkdir build`
 - `cd build`
 - `cmake ..`
+- `make`
 - `./binary_tree`
 
 
